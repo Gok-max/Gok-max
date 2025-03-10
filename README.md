@@ -2,7 +2,7 @@
 
 A passionate Full Stack(MERN) developer from India
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://guileless-malabi-56510e.netlify.app/)                                                 
+- 🔭 Here's my [Portfolio](https://guileless-malabi-56510e.netlify.app/)                                                 
 - 🌱 I’m currently learning MERN Stack
 - Engineeing at [<img src="https://jmc.edu/B.Ed/assets/image/logo/logo3.png" height="24">](https://jmc.edu/),
 - Previously worked with RFICT Solution 
